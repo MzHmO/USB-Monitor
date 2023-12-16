@@ -1,0 +1,10 @@
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\bin\Debug\USB-Monitor.exe.config
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\bin\Debug\USB-Monitor.exe
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\bin\Debug\USB-Monitor.pdb
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\bin\Debug\System.CodeDom.dll
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\bin\Debug\System.CodeDom.xml
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\obj\Debug\USB-Monitor.csproj.AssemblyReference.cache
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\obj\Debug\USB-Monitor.csproj.CoreCompileInputs.cache
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\obj\Debug\USB-Monitor.csproj.CopyComplete
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\obj\Debug\USB-Monitor.exe
+A:\SSD\ProjectsVS\USB-Monitor\USB-Monitor\obj\Debug\USB-Monitor.pdb

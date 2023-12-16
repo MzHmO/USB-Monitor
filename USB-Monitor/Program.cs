@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Management;
+using System.Security.Cryptography;
 
 class FlashDrive
 {

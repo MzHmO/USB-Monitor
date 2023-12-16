@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0B3834F4-3EF6-4E71-B3A9-831EB4BDA727}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USB-Monitor", "USB-Monitor\USB-Monitor.csproj", "{CA54F641-9565-4F7C-AFF0-36EDBFF8A438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B3834F4-3EF6-4E71-B3A9-831EB4BDA727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B3834F4-3EF6-4E71-B3A9-831EB4BDA727}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B3834F4-3EF6-4E71-B3A9-831EB4BDA727}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B3834F4-3EF6-4E71-B3A9-831EB4BDA727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA54F641-9565-4F7C-AFF0-36EDBFF8A438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA54F641-9565-4F7C-AFF0-36EDBFF8A438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA54F641-9565-4F7C-AFF0-36EDBFF8A438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA54F641-9565-4F7C-AFF0-36EDBFF8A438}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CB7051B1-81E3-474C-961A-5314B696D0FE}
+		SolutionGuid = {8B19DB6A-CC9D-430B-80DD-A87975F63124}
 	EndGlobalSection
 EndGlobal
