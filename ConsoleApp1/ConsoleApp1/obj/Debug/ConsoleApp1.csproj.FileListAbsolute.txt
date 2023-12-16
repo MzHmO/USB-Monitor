@@ -1,0 +1,10 @@
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\bin\Debug\System.CodeDom.dll
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\bin\Debug\System.CodeDom.xml
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+A:\SSD\gitrepo\USB-Monitor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
